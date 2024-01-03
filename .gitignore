@@ -1,0 +1,8 @@
+.idea
+__pycache__
+.venv
+/actuator_ref.py
+/circuit_color.png
+/LC_Oscillator_Solution.pdf
+/test-assignment-modeling.pdf
+/.ipynb_checkpoints/
